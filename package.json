@@ -1,0 +1,19 @@
+{
+  "name": "ccms-icons",
+  "version": "0.0.1",
+  "description": "数据赢家 icons",
+  "main": "iconfont.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjzheng/ccms-icons.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjzheng/ccms-icons/issues"
+  },
+  "homepage": "https://github.com/hjzheng/ccms-icons#readme"
+}
