@@ -3,7 +3,7 @@
 
 将所有的 icons 从 ccms-components 分离出来, 这样加新 icon 时, 就不用升级组件库了.
 
-#### 说明
+#### 说明 
 
 如果工程中使用的是 v2.22.3-0 之前的版本, 需要手动引入 ccms-icons
 
@@ -17,3 +17,9 @@ npm install ccms-icons --save
 ```
 
 如果是 v2.22.3-0(包括v2.22.3-0) 之后的版本, 则无需手动引入 ccms-icons
+
+#### 补充说明 
+
+2019-01-07:
+
+ccms-icons 不在用于添加新的 icons，为了优化被依赖的项目打包体积，请使用 [ccms-svg-icons](https://github.com/hjzheng/ccms-svg-icons) 按需引入项目需要的 icons。
